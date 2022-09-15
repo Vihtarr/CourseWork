@@ -1,3 +1,0 @@
-D:/Proggraming/C++ code/CourseWorkWT/cmake-build-debug/CMakeFiles/CourseWorkWT.dir
-D:/Proggraming/C++ code/CourseWorkWT/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Proggraming/C++ code/CourseWorkWT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
