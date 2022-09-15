@@ -1,6 +1,0 @@
-# ninja log v5
-0	2469	6849727613494284	CMakeFiles/CourseWorkWT.dir/main.cpp.obj	1718ff02cf518077
-6	926	6849728355575112	CMakeFiles/CourseWorkWT.dir/Data/Teacher.cpp.obj	b2d52a082bd2ae0c
-3	1321	6849728359525383	CMakeFiles/CourseWorkWT.dir/Data/Person.cpp.obj	aba24919ee48160f
-5	1334	6849728359655489	CMakeFiles/CourseWorkWT.dir/Data/Worker.cpp.obj	c0bec9db1d5ff26f
-1334	1462	6849728360915496	CourseWorkWT.exe	f1227800979412ca
